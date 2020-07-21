@@ -3849,6 +3849,10 @@ has@^1.0.1, has@^1.0.3:
   dependencies:
     function-bind "^1.1.1"
 
+"hermes-engine-darwin@file:../Hermes/src/npm/hermes-engine-darwin/hermes-engine-darwin-v0.4.1.tgz":
+  version "0.4.1"
+  resolved "file:../Hermes/src/npm/hermes-engine-darwin/hermes-engine-darwin-v0.4.1.tgz#56ccb8992961037c7c03c2f9ccfcd87d654780b6"
+
 hermes-engine@~0.4.0:
   version "0.4.0"
   resolved "https://registry.yarnpkg.com/hermes-engine/-/hermes-engine-0.4.0.tgz#ea3113d472871ca4791f2d75d9f68b25d82ef92c"

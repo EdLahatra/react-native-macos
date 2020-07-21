@@ -145,6 +145,7 @@
     "eslint-plugin-relay": "1.4.1",
     "flow-bin": "^0.113.0",
     "flow-remove-types": "1.2.3",
+    "hermes-engine-darwin": "/Users/eloy/Code/ReactNative/Hermes/src/npm/hermes-engine-darwin/hermes-engine-darwin-v0.4.1.tgz",
     "jest": "^24.8.0",
     "jest-junit": "^6.3.0",
     "jscodeshift": "^0.6.2",
